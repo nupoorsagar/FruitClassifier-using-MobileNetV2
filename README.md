@@ -11,11 +11,11 @@ This presentation details our advanced fruit classification model, built on Mobi
 
 Key Flaws Identified in Previous Work:
 
-Misclassification: Poor performance on real-world images with varied lighting/backgrounds.
+1. Misclassification: Poor performance on real-world images with varied lighting/backgrounds.
 
-Overfitting: Excessive training epochs (30) led to memorization.
+2. Overfitting: Excessive training epochs (30) led to memorization.
 
-Suboptimal Architecture: Lacked Global Average Pooling (GAP); small Kernel (3x3) & Stride (1) hindered efficiency.
+3. Suboptimal Architecture: Lacked Global Average Pooling (GAP); small Kernel (3x3) & Stride (1) hindered efficiency.
 
 Our Approach & Improvements:
 
@@ -34,10 +34,8 @@ Our Approach & Improvements:
 
 Results & Impact:
 
-Lower training time due to optimized epochs.
-
-Better feature representation from higher resolution and CLAHE.
-
-Improved generalization through balanced augmentation and architectural refinements.
+1. Lower training time due to optimized epochs.
+2. Better feature representation from higher resolution and CLAHE.
+3. Improved generalization through balanced augmentation and architectural refinements.
 
 Resultant lightweight model suitable for mobile deployment, offering real-world applications. This includes assisting visually impaired individuals in fruit identification, enhancing automated checkouts in grocery stores, and supporting inventory systems in agriculture and retail by providing precise and timely fruit classification.
