@@ -1,7 +1,7 @@
 # FruitClassifier-using-MobileNetV2
 A lightweight fruit classification model optimized for real-world applications such as assisting visually impaired individuals in identifying fruits, enhancing automated checkouts in grocery stores and supporting inventory systems in agriculture and retail
 
-Presentation:
+Presentation: 
 https://docs.google.com/presentation/d/1XuoXTyeKZCTCrUAULf7IOnxzxo6jIGe2a498KVxm-vY/edit?usp=drive_link
 <img width="927" height="516" alt="image" src="https://github.com/user-attachments/assets/03398336-1ca6-41ac-9d26-8ce172678cd2" />
 
