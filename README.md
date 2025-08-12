@@ -5,7 +5,7 @@ Presentation:
 https://docs.google.com/presentation/d/1XuoXTyeKZCTCrUAULf7IOnxzxo6jIGe2a498KVxm-vY/edit?usp=drive_link
 <img width="927" height="516" alt="image" src="https://github.com/user-attachments/assets/03398336-1ca6-41ac-9d26-8ce172678cd2" />
 
-
+ 
 Fruit Classification Model Enhancement: Boosting Accuracy (68.69% to 84.44%)
 This presentation details our advanced fruit classification model, built on MobileNetV2. We analyzed and implemented a prior paper, then developed a robust methodology to overcome its flaws, significantly improving validation accuracy.
 
